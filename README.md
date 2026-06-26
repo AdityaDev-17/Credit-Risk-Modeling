@@ -207,25 +207,17 @@ The prediction can assist banks in:
 
 ```text
 Credit-Risk-Modeling/
-│
 ├── app.py
 ├── credit-risk.ipynb
 ├── german_credit_data.csv
 ├── extra_trees_credit_model.pkl
-│
 ├── Checking account_encoder.pkl
 ├── Saving accounts_encoder.pkl
 ├── Housing_encoder.pkl
 ├── Sex_encoder.pkl
 ├── target_encoder.pkl
-│
-├── requirements.txt
 ├── README.md
-│
-└── images/
-    ├── home_page.png
-    ├── input_form.png
-    └── prediction_result.png
+
 ```
 
 ---
